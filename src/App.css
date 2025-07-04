@@ -46,6 +46,7 @@
 }
 .small-img-col{
     flex-basis: 24%;
+    margin-top: 20px;
     cursor: pointer;
 }
 button.normal{
