@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "urlmain": "./download/f1.jpg",
+            "url1": "./download/f2.jpg",
+            "url2": "./download/f3.jpg",
+            "url3": "./download/f4.jpg",
+            "brand": "adidas",
+            "title": "Cartoon Astronaut T-Shirts",
+            "price": "$78"
+        }
+    ]
+}
